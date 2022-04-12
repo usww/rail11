@@ -4,7 +4,7 @@
 AUUID=7ade159c-8b3e-42be-b437-e2eb8f63f2ec
 CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/e5renewal/rail/main/etc/Caddyfile
-CONFIGXRAY=https://raw.githubusercontent.com/e5renewal/rail/main/etc/xrui.json
+CONFIGXRUI=https://raw.githubusercontent.com/e5renewal/rail/main/etc/xrui.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
 StoreFiles=https://raw.githubusercontent.com/e5renewal/rail/main/etc/StoreFiles
 #PORT=4433
